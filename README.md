@@ -1,2 +1,2 @@
 # Artificial-Brain
-Artificial brain with C
+Artificial brain project in C
